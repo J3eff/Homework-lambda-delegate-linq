@@ -4,6 +4,7 @@ Exercicio proposto trabalhando com leitura de arquivos, expressões Lambda, Dele
 Apos um longo estudio do capitulo foi proposto atividade abaixo:
 
 Exercicio:
+
 ![image](https://user-images.githubusercontent.com/50780211/111539624-da05a780-874c-11eb-8522-f34f0827770b.png)
 
 Exemplo de entrada e saida:
